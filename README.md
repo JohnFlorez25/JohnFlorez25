@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there I'm John Faber Flórez Vasco  👋
+
+- 🔭 I’m currently working on prepare passionate people for technology to obtain the first job in software industry
+- 🌱 I’m currently learning concepts about data science and machine learning, with a special focus in Julia programming
+- 👯 I'm looking to collaborate on science research projects  and integrate more software developers community
+
 
 <!--
 **JohnFlorez25/JohnFlorez25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
