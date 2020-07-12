@@ -1,4 +1,4 @@
-### Hi there I'm John Faber Flórez Vasco  👋
+### Hi there 👋
 
 - 🔭 I’m currently working on prepare passionate people for technology to obtain the first job in software industry
 - 🌱 I’m currently learning concepts about data science and machine learning, with a special focus in Julia programming
