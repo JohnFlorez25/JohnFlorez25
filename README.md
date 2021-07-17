@@ -5,8 +5,8 @@
 <hr />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/john-florez-1b330175/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="john-florez-1b330175" height="30" width="30" /></a>
-  <a href="https://twitter.com/faber_vasco" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@faber_vasco" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/john-florez-1b330175/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="john-florez-1b330175" height="30" width="30" /></a>
+  <a href="https://twitter.com/faber_vasco" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@faber_vasco" height="30" width="30" /></a>
 </p>
 
 <hr />
