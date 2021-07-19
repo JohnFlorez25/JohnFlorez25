@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm John Flórez</h1>
 
-<h3 align="center">A passionate software developer and open-source enthusiast</h3>
+<h3 align="center">A passionate software developer and cloud computing enthusiast</h3>
 
 <hr />
 
